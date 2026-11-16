@@ -48,7 +48,7 @@ Hello! I'm **Priyanka Jantre**, a Software Developer from India passionate about
 ### Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
 ### Databases & Caching
