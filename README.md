@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -234,4 +234,3 @@ A Python-based PDF extraction project.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
 
 </div>
-```
