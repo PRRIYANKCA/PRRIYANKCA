@@ -1,32 +1,237 @@
-<h1 align="center">Hi 👋, I'm Priyanka Jantre</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+```markdown
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prriyankca&label=Profile%20views&color=0e75b6&style=flat" alt="prriyankca" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prriyankca" alt="prriyankca" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Priyanka%20Jantre&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20AI%2FML&descAlignY=60&descSize=17" width="100%" />
 
-- 🔭 I’m currently working on **PAYMENT ORCHESTRATION LAYER**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+REST+API+%7C+System+Design;Building+Scalable+Backend+Applications;Exploring+AI%2FML+%26+Distributed+Systems" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Django,Webhook,API integration with third party**
+<br/>
 
-- 🤝 I’m looking for help with **PAYMENT ORCHESTRATION LAYER**
+<a href="https://github.com/prriyankca">
+<img src="https://komarev.com/ghpvc/?username=prriyankca&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/prriyankca?tab=followers">
+<img src="https://img.shields.io/github/followers/prriyankca?style=for-the-badge&color=blue&label=Followers" alt="Followers"/>
+</a>
+<a href="https://github.com/prriyankca?tab=repositories">
+<img src="https://img.shields.io/github/stars/prriyankca?style=for-the-badge&color=yellow&label=Total%20Stars" alt="GitHub Stars"/>
+</a>
 
-- 💬 Ask me about **Full Stack Dev with AI/Ml**
+</div>
 
-- 📫 How to reach me **priyankajantre912@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👩‍💻 About Me
+
+Hello! I'm **Priyanka Jantre**, a Software Developer from India passionate about building scalable backend applications and solving real-world problems through technology.
+
+- 💻 2+ years of experience in Python and Django development.
+- 🚀 Experienced in building RESTful APIs and backend systems.
+- 🔗 Interested in third-party integrations, webhooks and payment systems.
+- ⚡ Working with asynchronous processing using Celery, Redis and Django Channels.
+- 🧠 Exploring Artificial Intelligence, Machine Learning and distributed computing.
+- 🏗️ Interested in System Design, Data Structures and scalable architectures.
+- 🌱 Continuously learning and building projects.
+
+**My current focus:** Payment Orchestration, API Integrations, Webhook Processing and Backend Architecture.
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack & Tools
+
+### Backend Development
+
 <p align="left">
-<a href="https://linkedin.com/in/priyanka jantre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka jantre" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyankanarendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyankanarendra" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/422004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="422004" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Databases & Caching
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prriyankca&show_icons=true&locale=en&layout=compact" alt="prriyankca" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prriyankca&show_icons=true&locale=en" alt="prriyankca" /></p>
+### Frontend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prriyankca&" alt="prriyankca" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap" />
+</p>
+
+### DevOps, Cloud & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,jenkins,kafka" />
+</p>
+
+### AI / ML & Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
+</p>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🔭 What I'm Currently Working On
+
+| Area | Focus |
+|---|---|
+| Backend | Python, Django, Django REST Framework |
+| Integrations | Third-party APIs and Webhooks |
+| Architecture | Payment Orchestration Layer |
+| Async Processing | Celery, Redis, Django Channels |
+| Databases | PostgreSQL, MySQL, Elasticsearch |
+| AI / ML | Machine Learning and Data Science |
+| Learning | FastAPI, System Design and DSA |
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Ecom Django
+
+A Django-based e-commerce application.
+
+**Tech:** Python, Django, JavaScript
+
+[View Repository →](https://github.com/prriyankca/Ecom-django)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 CarsDekho
+
+A car browsing and discovery web application.
+
+**Tech:** Python, Django
+
+[View Repository →](https://github.com/prriyankca/Carsdekho)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Forecast
+
+A weather application with temperature information.
+
+**Tech:** Python, API Integration
+
+[View Repository →](https://github.com/prriyankca/weather_forecast)
+
+[Live Demo →](https://weather-forecast-beta-murex.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 PDF Extractor
+
+A Python-based PDF extraction project.
+
+**Tech:** Python
+
+[View Repository →](https://github.com/prriyankca/pdf_exctrator)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=prriyankca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prriyankca&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prriyankca&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prriyankca&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB TROPHIES ===================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prriyankca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/priyanka-jantre">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/priyankanarendra">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+</a>
+
+<a href="https://www.topcoder.com/members/422004">
+<img src="https://img.shields.io/badge/Topcoder-Profile-29A8E0?style=for-the-badge&logo=topcoder" alt="Topcoder"/>
+</a>
+
+<a href="mailto:priyankajantre912@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built with curiosity, consistency and continuous learning."
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+
+</div>
+```
