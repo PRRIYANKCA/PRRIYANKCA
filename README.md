@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:E6E6FA,100:36BCF7&height=200&section=header&text=Priyanka%20Jantre&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20AI%2FML&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,50:E6E6FA,100:36BCF7&height=200&section=header&text=Priyanka%20Jantre&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20AI%2FML&descAlignY=60&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+REST+API+%7C+System+Design;Building+Scalable+Backend+Applications;Exploring+AI%2FML+%26+Distributed+Systems" alt="Typing SVG" />
 
